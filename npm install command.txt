@@ -1,0 +1,1 @@
+npm install git+ssh://git@code.inovretail.com:jinovretail/saas/api
